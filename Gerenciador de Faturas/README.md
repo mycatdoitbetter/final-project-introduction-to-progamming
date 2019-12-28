@@ -1,9 +1,9 @@
 ## TRABALHO FINAL DA DISCIPLICA DE INTRODUÇÃO À PROGAMAÇÃO
 
-Equipe: André Santos Castelo e Lucas Cunha Da Costa Velho 
-Emails: andrecasteloecomp@gmail.com e lucasccv.2@hotmail.com
+<p> Equipe: André Santos Castelo e Lucas Cunha Da Costa Velho </p>
+<p> Emails: andrecasteloecomp@gmail.com e lucasccv.2@hotmail.com </p>
 
-O sistema de faturas esta organizado para atender tanto ao cliente quanto ao responsável por gerenciar as faturas através de um simples sistema de Login. Como padrão, o código de login e a senha de um usuário são iguais. (Cada usuário tem um código de acordo com o momento de sua criação.) Por exemplo, o usuário de código (0), ou seja, o primeiro a ser criado, possui como codigo de logine senha tambem o (0).
+<p> O sistema de faturas esta organizado para atender tanto ao cliente quanto ao responsável por gerenciar as faturas através de um simples sistema de Login. Como padrão, o código de login e a senha de um usuário são iguais. (Cada usuário tem um código de acordo com o momento de sua criação.) Por exemplo, o usuário de código (0), ou seja, o primeiro a ser criado, possui como codigo de logine senha tambem o (0). </p>
 
 Observação: O código de login e senha podem ser modificados a qualquer momento.
 
