@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1575921820 source:e:\trabalho_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"AUXILIAR.h"
+	"data.h"
+	"CLIENTE.h"
+	"LISTA_CLIENTE.h"
+	"FATURAS.h"
+	"LISTA_FATURA.h"
+	"MENUS_CLIENTE.h"
+	"MENUS_FATURA.h"
+	"MENUS_RELATORIOS.h"
+	"MENUS_PAGAMENTOS.h"
+
+1575923386 e:\trabalho_final\auxiliar.h
+
+1575308060 e:\trabalho_final\data.h
+
+1575921422 e:\trabalho_final\cliente.h
+
+1575596842 e:\trabalho_final\lista_cliente.h
+
+1575687514 e:\trabalho_final\faturas.h
+
+1575923764 e:\trabalho_final\lista_fatura.h
+
+1575923872 e:\trabalho_final\menus_cliente.h
+
+1575829298 e:\trabalho_final\menus_fatura.h
+
+1575739704 e:\trabalho_final\menus_relatorios.h
+
+1575923598 e:\trabalho_final\menus_pagamentos.h
+
+1575772672 source:c:\users\user\desktop\trabalho_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"AUXILIAR.h"
+	"data.h"
+	"CLIENTE.h"
+	"LISTA_CLIENTE.h"
+	"FATURAS.h"
+	"LISTA_FATURA.h"
+	"MENUS_CLIENTE.h"
+	"MENUS_FATURA.h"
+	"MENUS_RELATORIOS.h"
+	"MENUS_PAGAMENTOS.h"
+
+1575756482 c:\users\user\desktop\trabalho_final\auxiliar.h
+
+1575308060 c:\users\user\desktop\trabalho_final\data.h
+
+1575773344 c:\users\user\desktop\trabalho_final\cliente.h
+
+1575596842 c:\users\user\desktop\trabalho_final\lista_cliente.h
+
+1575687514 c:\users\user\desktop\trabalho_final\faturas.h
+
+1575743294 c:\users\user\desktop\trabalho_final\lista_fatura.h
+
+1575774074 c:\users\user\desktop\trabalho_final\menus_cliente.h
+
+1575829298 c:\users\user\desktop\trabalho_final\menus_fatura.h
+
+1575739704 c:\users\user\desktop\trabalho_final\menus_relatorios.h
+
+1575829352 c:\users\user\desktop\trabalho_final\menus_pagamentos.h
+
+1575772672 source:c:\users\user\desktop\sla\trabalho_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"AUXILIAR.h"
+	"data.h"
+	"CLIENTE.h"
+	"LISTA_CLIENTE.h"
+	"FATURAS.h"
+	"LISTA_FATURA.h"
+	"MENUS_CLIENTE.h"
+	"MENUS_FATURA.h"
+	"MENUS_RELATORIOS.h"
+	"MENUS_PAGAMENTOS.h"
+
+1575756482 c:\users\user\desktop\sla\trabalho_final\auxiliar.h
+
+1575308060 c:\users\user\desktop\sla\trabalho_final\data.h
+
+1575773344 c:\users\user\desktop\sla\trabalho_final\cliente.h
+
+1575596842 c:\users\user\desktop\sla\trabalho_final\lista_cliente.h
+
+1575687514 c:\users\user\desktop\sla\trabalho_final\faturas.h
+
+1575743294 c:\users\user\desktop\sla\trabalho_final\lista_fatura.h
+
+1575774074 c:\users\user\desktop\sla\trabalho_final\menus_cliente.h
+
+1575829296 c:\users\user\desktop\sla\trabalho_final\menus_fatura.h
+
+1575739704 c:\users\user\desktop\sla\trabalho_final\menus_relatorios.h
+
+1575829351 c:\users\user\desktop\sla\trabalho_final\menus_pagamentos.h
+
+1575772672 source:g:\trabalho_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"AUXILIAR.h"
+	"data.h"
+	"CLIENTE.h"
+	"LISTA_CLIENTE.h"
+	"FATURAS.h"
+	"LISTA_FATURA.h"
+	"MENUS_CLIENTE.h"
+	"MENUS_FATURA.h"
+	"MENUS_RELATORIOS.h"
+	"MENUS_PAGAMENTOS.h"
+
+1575756482 g:\trabalho_final\auxiliar.h
+
+1575308060 g:\trabalho_final\data.h
+
+1575773344 g:\trabalho_final\cliente.h
+
+1575596842 g:\trabalho_final\lista_cliente.h
+
+1575687514 g:\trabalho_final\faturas.h
+
+1575743294 g:\trabalho_final\lista_fatura.h
+
+1575774074 g:\trabalho_final\menus_cliente.h
+
+1575829298 g:\trabalho_final\menus_fatura.h
+
+1575739704 g:\trabalho_final\menus_relatorios.h
+
+1575829352 g:\trabalho_final\menus_pagamentos.h
+
